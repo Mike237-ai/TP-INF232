@@ -11,7 +11,7 @@
 ## 🚀 Présentation du Projet
 **EcoTrack Pro** est une application web interactive conçue pour la collecte, le stockage et l'analyse descriptive des données de mobilité urbaine. L'objectif est de permettre aux utilisateurs de suivre leur empreinte carbone en temps réel tout en fournissant des outils d'analyse statistique avancés.
 
-🔗 **Lien de l'application en ligne :** [https://tchoffo-beni-mikel-24g2339.streamlit.app/](https://tchoffo-beni-mikel-24g2339.streamlit.app/)
+🔗 **Lien de l'application en ligne :** [https://tp-inf232-tchoffo-beni-mikel-24g2339.streamlit.app/](https://tp-inf232-tchoffo-beni-mikel-24g2339.streamlit.app/)
 
 ---
 
