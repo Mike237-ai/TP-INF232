@@ -1,9 +1,7 @@
 # TP-INF232
 # 🌍 EcoTrack Pro - Collecte & Analyse de Données
 
-> **Projet académique :** TP INF232  
-> **Développeur :** TCHOFFO BENI MIKEL  
-> **Matricule :** 24G2339  
+> **Projet académique :** TP INF232   
 > **Filière :** Informatique
 
 ---
